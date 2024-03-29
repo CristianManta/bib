@@ -17,4 +17,4 @@ Here is a description of all the `.bib` files that this repository contains with
 [gflownet-causality.bib](/gflownet-causality.bib): All the literature related to GFlowNets and causality
 
 ### Contributing
-If you find any missing references within the scope of a file (for example, a paper studying causal discovery with GFlowNets that has not been mentioned in `gflownet-causality.bib`), feel free to open a PR!
+If you find any missing references within the scope of a file (for example, a paper studying causal discovery with GFlowNets that has not been mentioned in `gflownet-causality.bib`), or if there are issues with some entries (for example, the entry cites the arxiv preprint version instead of the published source) feel free to open a PR!
